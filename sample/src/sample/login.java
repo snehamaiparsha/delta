@@ -1,7 +1,7 @@
 package sample;
 
 import java.awt.EventQueue;
-
+//new change
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
